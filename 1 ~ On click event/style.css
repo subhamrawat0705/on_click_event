@@ -1,0 +1,23 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+input{
+    border-color: blueviolet;
+    color: blueviolet;
+}
+button{
+    border-color: blueviolet;
+    color: blueviolet;
+    padding: 4px;
+    width: 50px;
+    border-radius: 15px;
+}
+button:hover{
+    background-color: blueviolet;
+    color: aliceblue;
+}
+.greet{
+    color: blueviolet;
+}
